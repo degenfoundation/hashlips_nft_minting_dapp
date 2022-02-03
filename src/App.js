@@ -213,7 +213,7 @@ function App() {
             jc={"center"}
             ai={"center"}
             style={{
-              backgroundColor: "none",
+              backgroundColor: "rgba(0,0,0,0.1)",
               padding: 24,
               borderRadius: 24,
               border: "0px dashed var(--secondary)",
