@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "https://https://rinkeby.etherscan.io//token/",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "Ethereum",
-    "ID": 1
+    "ID": 4
   },
   "NFT_NAME": "Degen Foundation NFT",
   "SYMBOL": "DFN",
