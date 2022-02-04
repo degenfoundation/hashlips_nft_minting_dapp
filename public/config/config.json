@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "",
-  "SCAN_LINK": "https://https://rinkeby.etherscan.io//token/",
+  "CONTRACT_ADDRESS": "0x505bfFAB59679aaB5637579ef74E3B2B2E130761",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x505bffab59679aab5637579ef74e3b2b2e130761",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "Ethereum",
