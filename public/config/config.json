@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x1e0506e1A7F173ED786CC55048548E4aAe926F37",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x505bffab59679aab5637579ef74e3b2b2e130761",
+  "CONTRACT_ADDRESS": "0x505bffab59679aab5637579ef74e3b2b2e130761",
+  "SCAN_LINK": "https://etherscan.io/address/0x505bffab59679aab5637579ef74e3b2b2e130761",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "Ethereum",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Degen Foundation NFT",
   "SYMBOL": "Degen Foundation NFT",
