@@ -195,10 +195,6 @@ function App() {
   }, [blockchain.account]);
 
 
-  getData();
-  
-  
-
   return (
     <s.Screen>
       <s.Container
@@ -234,7 +230,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-              {data.totalSupply} / {CONFIG.MAX_SUPPLY}
+              {(data.totalSupply == 0 ? 256 : data.totalSupply)} / {CONFIG.MAX_SUPPLY}
             </s.TextTitle>
             <s.TextDescription
               style={{
