@@ -195,9 +195,11 @@ function App() {
   }, [blockchain.account]);
 
 
-  componentDidMount(() => {
+  componentDidMount() {
+
     getData();
-  });
+  };
+  
 
   return (
     <s.Screen>
