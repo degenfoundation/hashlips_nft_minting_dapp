@@ -195,10 +195,8 @@ function App() {
   }, [blockchain.account]);
 
 
-  componentDidMount() {
-
-    getData();
-  };
+  getData();
+  
   
 
   return (
